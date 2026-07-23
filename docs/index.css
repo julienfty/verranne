@@ -126,7 +126,7 @@ body {
 
 @media screen and (max-width: 768px) {
   .reveal-logo {
-    font-size: 5rem; /* Ajustez cette valeur selon vos besoins (ex: 1.5rem, 24px, etc.) */
+    font-size: 7rem; /* Ajustez cette valeur selon vos besoins (ex: 1.5rem, 24px, etc.) */
   }
 }
 /* ==========================================
