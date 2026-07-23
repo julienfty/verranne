@@ -124,7 +124,7 @@ body {
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
   .reveal-logo {
     font-size: 7rem; /* Ajustez cette valeur selon vos besoins (ex: 1.5rem, 24px, etc.) */
   }
@@ -176,6 +176,11 @@ body {
     cursor: pointer;
     z-index: 25;
     padding: 20px; /* Élargit la zone sensible pour capter le survol partout */
+}
+@media screen and (max-width: 800px) {
+  .scroll-down-indicator {
+    bottom: 30px;
+  }
 }
 
 /* Le texte "découvrir" */
